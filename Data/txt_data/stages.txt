@@ -1,0 +1,21 @@
+3  
+5 1 
+100 600 100 20 0 ./Data/Image/block1.png
+150 500 100 20 0 ./Data/Image/block1.png
+200 400 100 20 0 ./Data/Image/block1.png
+250 300 100 20 0 ./Data/Image/block1.png
+300 200 100 20 0 ./Data/Image/block1.png
+
+5 1
+50 600 100 20 0 ./Data/Image/block2.png
+100 450 100 20 0 ./Data/Image/block2.png
+150 300 100 20 0 ./Data/Image/block2.png
+200 150 100 20 0 ./Data/Image/block2.png
+250 50 100 20 0 ./Data/Image/block2.png
+
+5 1
+70 600 100 20 0 ./Data/Image/block3.png
+170 500 100 20 0 ./Data/Image/block3.png
+270 400 100 20 0 ./Data/Image/block3.png
+370 300 100 20 0 ./Data/Image/block3.png
+470 200 100 20 0 ./Data/Image/block3.png
